@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on genomics/bioinformatics
-- 🌱 I’m currently learning Machine Learning and Git
+- 🔭Experienced in clinical data management and system configuration in regulated environments. 
+- 🌱 I’m currently expanding skills in bioinformatics pipelines and workflow automation
 - 👯 I’m looking to collaborate on NGS sequencing
-- 🤔 I’m looking for help with Bioinformatic pipelines and creating Nextflow pipelins
 - 💬 Ask me about Clinical data management
 - 📫 Reach me at saranyaraghavan96@gmail.com
 - 😄 Pronouns: She/Her
